@@ -4,7 +4,7 @@ The draft roadmap was created based on information from the Attention Ubiquity C
 
 Once the content and structure of the roadmap are approved, a visually appealing roadmap will be created.
 
-The draft of the roadmap Q1 2024 - Q1 2025 for discussion:
+The draft of the roadmap Q1 2024 - Q2 2025 for discussion:
 
 ## Product Development
 
