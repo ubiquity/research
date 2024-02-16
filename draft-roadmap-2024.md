@@ -1,49 +1,81 @@
 The roadmap is one of the important artifacts on the website.
 
-The draft roadmap 2024 was created based on information from the Attention Ubiquity Core Team https://github.com/ubiquity
+The draft roadmap was created based on information from the Attention Ubiquity Core Team https://github.com/ubiquity and Alex's recommendations https://github.com/ubiquity/research/pull/130#discussion_r1485777642
+
 Once the content and structure of the roadmap are approved, a visually appealing roadmap will be created.
 
-The draft of the roadmap 2024 content and structure for discussion:
+The draft of the roadmap Q1 2024 - Q1 2025 for discussion:
 
 ## Product Development
 
-### Q1
+### Q1 2024
 
-- Security assessment
-- Ubiquity Dollar stable version launch
+Security assessment
 
-### Q2
+### Q2 2024
 
-- Ubiquity Dollar integration to DevPool
-- Ubiquity Card integration to DevPool
+Ubiquity Dollar stable version launch
 
-### Q3
+Ubiquity Card integration to DAO OS
 
-- AI agents for DevPool alpha version
+### Q3 2024
 
-### Q4
+DAO OS Kernel stable version launch
 
-- Ubiquity Bank alpha version
+Ubiquity Dollar integration to DAO OS
 
-## Partnerships & Fundraising 
+### Q4 2024
 
-### Q1
+DAO OS Plugins open for contribution
 
-- Partners research
+DAO OS AI agents alpha version 
 
-### Q2
+### Q1 2025
 
-- DevPool first partners onboarding
-- Ubiquity Dollar liquidity mining campaign 
+Ubiquity Bank alpha version 
 
-### Q3
+DAO OS contributors plugins launchpad
 
-- Contributors engagement campaign
-- Series A fundraising
+### Q2 2025
 
-### Q4
+Ubiquity Bank beta version 
 
-- DevPool partners onboarding
-- Retrodrop for Web3 contributors
+DAO OS AI agents beta version 
+
+## Community & Partnerships
+
+### Q1 2024
+
+Partners research 
+
+### Q2 2024
+
+DAO OS partners onboarding
+
+Ubiquity Dollar liquidity mining campaign 
+
+### Q3 2024
+
+DAO OS partners onboarding
+
+Series A fundraising
+
+### Q4 2024
+
+Web3 Contributors XP system launch 
+
+DAO OS Plugins Hackathon series 1
+
+### Q1 2025
+
+Contributors engagement campaign 
+
+Launch of personalized recommendations for contributors 
+
+### Q2 2025
+
+DAO OS Plugins Hackathon series 2
+
+Retrodrop for contributors to the Web3 ecosystem
 
   
