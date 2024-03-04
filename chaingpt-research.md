@@ -18,6 +18,29 @@ Each company has its own unique path to success. Repeating the actions of anothe
 
 An effective use of ChainGPT's experience is to read the information and think about how to apply their approaches to Ubiquity. Some of the information was collected earlier as I followed their growth. For example, the proposal on the Ubiquity OS plugins launchpad was inspired by the success of their launchpad.
 
+### Plan
+
+Preliminary steps to leverage ChainGPT's expertise
+
+- Alex reviews the collected information about the ChainGPT founder.
+After this, Alex and Sergey determine what experience can be applied to Ubiquity.
+Consider the option of revealing the founder's identity and greater publicity.
+
+- Alex reviews the collected information about ChainGPT's marketing and website.
+After this, Alex and Sergey determine what experience can be applied to Ubiquity.
+Consider options for cooperation with marketing agencies similar to those that supported ChainGPT.
+To think that for such success as ChainGPT, we need to focus on a hype-able product, and not necessarily on serious development.
+
+- Alex reviews the collected information about ChainGPT incubation and fundraising.
+After this, Alex and Sergey determine what experience can be applied to Ubiquity.
+Consider participating in leading acceleration programs.
+
+- Alex reviews the collected information about the ChainGPT launchpad.
+Consider using Ubiquity OS as a launchpad of plugins and other products for developers and DAOs.
+
+- Alex reviews user feedback on ChainGPT.
+This may provide new ideas for leveraging ChainGPT's experience.
+
 ### Founder 
 
 Ilan Rakhmanov
