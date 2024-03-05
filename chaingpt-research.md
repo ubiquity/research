@@ -41,6 +41,18 @@ Consider using Ubiquity OS as a launchpad of plugins and other products for deve
 - Alex reviews user feedback on ChainGPT.
 This may provide new ideas for leveraging ChainGPT's experience.
 
+**Key actions that can be relevant to us:**
+
+- Establish cooperation with an effective crypto marketing agency.
+
+- Clearly define the main narrative that we bring to the market.
+
+- Determine your target audience and focus all actions on creating hype and FOMO.
+
+- Use influencer marketing on a large scale with hundreds of influencers.
+  
+- Actively apply mechanics related to airdrops.
+
 ### Founder 
 
 Ilan Rakhmanov
