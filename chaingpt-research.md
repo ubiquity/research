@@ -18,9 +18,7 @@ Each company has its own unique path to success. Repeating the actions of anothe
 
 An effective use of ChainGPT's experience is to read the information and think about how to apply their approaches to Ubiquity. Some of the information was collected earlier as I followed their growth. For example, the proposal on the Ubiquity OS plugins launchpad was inspired by the success of their launchpad.
 
-### Plan
-
-Preliminary steps to leverage ChainGPT's expertise
+### Preliminary steps to leverage ChainGPT's expertise
 
 - Alex reviews the collected information about the ChainGPT founder.
 After this, Alex and Sergey determine what experience can be applied to Ubiquity.
@@ -41,17 +39,95 @@ Consider using Ubiquity OS as a launchpad of plugins and other products for deve
 - Alex reviews user feedback on ChainGPT.
 This may provide new ideas for leveraging ChainGPT's experience.
 
-**Key actions that can be relevant to us:**
+### Key actions that can be relevant to us
 
-- Establish cooperation with an effective crypto marketing agency.
+**1. Establish cooperation with an effective crypto marketing agency**
 
-- Clearly define the main narrative that we bring to the market.
+It is known from open sources that ChainGPT used several marketing agencies.
+In reality, there were probably more agencies than are mentioned in open sources.
 
-- Determine your target audience and focus all actions on creating hype and FOMO.
+- Lead marketing agency - Coinband
 
-- Use influencer marketing on a large scale with hundreds of influencers.
-  
-- Actively apply mechanics related to airdrops.
+https://coinband.io/case/chaingpt  
+
+- Website design - Sigma Software 
+
+https://sigma.software/about/media/a-winning-streak-for-our-design-teams-new-project-chaingpt
+
+https://dribbble.com/shots/23245957-ChainGPT-Website-Behance-Case-Study  
+
+https://www.behance.net/gallery/186506369/ChainGPT-Blockchain-AI-Website 
+
+- One of the additional marketing agencies - EmoneyMax
+
+https://emoneymax.net/  
+
+- ChainGPT itself provides marketing services in the scope of the ChainGPT Pad 
+
+https://medium.com/@chaingpt/chaingpt-pad-2023-a-year-of-unprecedented-success-in-web3-11e7db93615c 
+
+Finding other effective agencies that are on the market but have not been used by ChainGPT can be done in separate research.
+
+
+**2. Clearly define the main narrative that we bring to the market**
+
+Alex: will do when producing Series A fundraising materials.
+
+
+**3. Determine the target audience and focus all actions on creating hype and FOMO**
+
+
+**4. Use influencer marketing on a large scale with hundreds of influencers**
+
+Signals of ChainGPT using influencer marketing:
+
+- Massive positive reviews on ProductHunt
+
+https://www.producthunt.com/products/chaingpt/reviews
+
+- "Independent" product review articles
+
+https://www.linkedin.com/posts/rahulmanglaz_blockchain-web3-ai-activity-7074789416648458240-EKs3
+
+- Massive positive feedback from clients
+
+https://www.quora.com/What-does-ChainGPT-have-to-offer-to-those-in-crypto
+
+There is no information in open sources about the strategy that ChainGPT used in interacting with influencers.
+Influencer marketing is mentioned as one of the activities of the lead marketing agency
+
+>We carefully selected over 47 influencers who were given a four-week timeframe to promote the project and the upcoming IDO. These influencers helped us expand the project's community, resulting in over 133 publications featuring the project.
+
+https://coinband.io/case/chaingpt
+
+It doesn't make sense to collect lists of influencers because they usually interact with professional agencies, not companies.
+
+For small companies like Ubiquity, it is extremely costly and ineffective to collect and maintain a pool of influencers, so they usually collaborate with marketing agencies.
+
+The advantages of using a marketing agency are already established contacts with many influencers and knowledge of their specifics.
+An effective marketing agency can coordinate influencers and other communication channels into a single campaign that brings results. 
+
+
+**5. Actively apply mechanics related to token distribution**
+
+ChainGPT uses token distribution to attract market attention.
+
+They held 4 IDOs of their tokens
+
+https://cryptorank.io/ico/chain-gpt
+
+They also acted as a launchpad for 7 IDOs of other companies
+
+https://coinlaunch.space/launchpads/chaingpt-pad/
+
+https://medium.com/@chaingpt/chaingpt-pad-2023-a-year-of-unprecedented-success-in-web3-11e7db93615c
+
+ChainGPT holds airdrops together with other companies i.e. Seefify, CoinMarketCap
+
+https://www.chaingpt.org/blog/20-000-airdrop-campaigns-for-the-chaingpt-community
+
+https://www.binance.com/uk-UA/feed/post/1511520 
+
 
 ### Founder 
 
